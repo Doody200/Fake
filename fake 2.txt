@@ -1,0 +1,20 @@
+<html>
+<body>
+<big><big><center><label for="Name">Name:</label><br></center></big></big>
+<big><big><center><input type="text" id="Name" name="Name"><br></center></big></big>
+
+<big><big><center><label for="pass">Password:</label><br></center></big></big>
+<big><big><center><input type="password" id="Name" name="pass"><br></center></big></big>
+
+<big><big><center><label for="date">Birthday:</label><br></center></big></big>
+<big><big><center><input type="date" id="Name" name="date"><br></center></big></big>
+<big><big><center><label for="date">gender:</label><br></center></big></big>
+<big><big><center><input type="radio" name="gender" value="male"> Male</center></big></big>
+<big><big><center><input type="radio" name="gender" value="female"> Female</center></big></big>
+
+<big><big><center><input type="submit" value="log in"></center><br></big></big>
+
+<center><a href="file:///C:/Users/adham/Desktop/New%20folder%20(2)/fake.html">Sign up</a></center>
+
+</body>
+</html>
